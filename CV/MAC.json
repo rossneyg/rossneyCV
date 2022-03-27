@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Guillermo",
+      "surnames": "Rossney",
+      "title": "System's Architect. ERP Professional. \"Get work easier\" enthusiast!",
+      "description": "I'm an argentinian system's professional, working at e-commerce/retail companies since 2000. \nI consider my best asset the knowledge about bussiness flows, mainly on retail operations with warehouse and distribution.\nPassionate about solving complex problems and automate time-consuming tasks.",
+      "avatar": {
+        "alt": "perfil.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/215ea72e-ab5c-49d4-ab91-68df6ad8829c_perfil.jpg"
+      },
+      "location": {
+        "notes": "Buenos Aires, Argentina"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/guillermo-rossney-4b40465"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/guillermo-rossney-4b40465"
+        }
+      ]
+    }
+  }
+}
